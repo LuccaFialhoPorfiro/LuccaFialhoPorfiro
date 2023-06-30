@@ -4,7 +4,7 @@ BIO
 <h2>EU QUANDO PROGRAMAÇÂO</h2>
 <img src="https://github.com/LuccaFialhoPorfiro/Lucca-FIalho-Porfiro/assets/138223116/cad3b101-8db1-46b5-be22-a4891f8ae1b9">
 <h2>Estou aprendendo:</h2>
-<img src=""![
+<img src="https://github.com/LuccaFialhoPorfiro/LuccaFialhoPorfiro/assets/138223116/f17693f5-71b1-46af-b0fe-24a827867e27">
 
 <!--
 **LuccaFialhoPorfiro/LuccaFialhoPorfiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
